@@ -1,0 +1,24 @@
+{
+    "devDependencies": {
+        "parcel": "^2.5.0",
+        "postcss": "^8.4.13",
+        "tailwindcss": "^3.0.24"
+    },
+    "dependencies": {
+        "@reduxjs/toolkit": "^1.8.1",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-redux": "^8.0.1"
+    },
+    "name": "redux-practice-one",
+    "version": "1.0.0",
+    "description": "yeh",
+    "main": "index.js",
+    "source": "src/index.html",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"
+    },
+    "author": "Caldwood Alikula",
+    "license": "ISC"
+}
